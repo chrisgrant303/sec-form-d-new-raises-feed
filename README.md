@@ -1,5 +1,7 @@
 # SEC Form D Scraper – New Startup Funding Raises Feed
 
+> Part of the **GovCon Data Suite**, which covers SAM.gov alerts, expiring federal contracts (recompetes) and SEC Form D raises: https://github.com/chrisgrant303/govcon-data-suite
+
 [![Run on Apify](https://img.shields.io/badge/Run%20on-Apify-00a86b)](https://apify.com/cce_partners/sec-form-d-new-raises-feed)
 
 **▶ Try it on the Apify Store: https://apify.com/cce_partners/sec-form-d-new-raises-feed**
